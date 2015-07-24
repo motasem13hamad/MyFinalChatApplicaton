@@ -40,7 +40,8 @@
         android:password="true"
         android:layout_weight="0.07"
         android:background="@drawable/password"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginBottom="20dp"
+        android:paddingStart="20dp" />
     <LinearLayout android:orientation="horizontal"
     			  android:layout_width="fill_parent"
     			  android:layout_height="wrap_content">
