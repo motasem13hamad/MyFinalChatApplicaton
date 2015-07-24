@@ -1,4 +1,5 @@
 <resources>
+	<string name="background">#2d2f31</string>
 	<string name="hello">AndroidIM</string>
     <string name="app_name">AndroidIM</string>
     <string name="friend_list">Friend List</string>
